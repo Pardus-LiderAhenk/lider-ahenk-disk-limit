@@ -33,7 +33,7 @@ disk-limit plugin for [Lider Ahenk project](http://www.liderahenk.org.tr).
 
 #### Ahenk
 
-1. Create a soft link for _ahenk-disk-limit/disk-limit_ directory via `sudo ln -s lider-ahenk-disk-limit-plugin/ahenk-disk-limit/disk-limit/ /opt/ahenk/plugins`
+1. Create a soft link for _ahenk-disk-limit/disk-limit_ directory via `sudo ln -s lider-ahenk-disk-limit-plugin/ahenk-disk-limit/disk-limit/ /usr/share/ahenk/plugins`
 
 ## Contribution
 
