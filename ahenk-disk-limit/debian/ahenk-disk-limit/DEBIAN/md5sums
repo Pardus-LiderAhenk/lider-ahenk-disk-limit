@@ -1,0 +1,9 @@
+3c3260b124c9bfa19eb22af1b9604274  usr/share/ahenk/plugins/disk-limit/init.py
+5600c082c5fd4005cbfe34befd4412e3  usr/share/ahenk/plugins/disk-limit/login.py
+676a180eaf84babe8131274f7680e3c8  usr/share/ahenk/plugins/disk-limit/logout.py
+45619ab4a5e4807a981030488d80f6fc  usr/share/ahenk/plugins/disk-limit/main.py
+2613e05c313fec8cef382cd53513fd9a  usr/share/ahenk/plugins/disk-limit/policy.py
+53ba59fa72fc042c8a599541f1f3f054  usr/share/ahenk/plugins/disk-limit/safe.py
+a4ccb7b65606d807e7a475cdc0e7af59  usr/share/ahenk/plugins/disk-limit/set_disk_limit.py
+ce14a9c1fe208d356f047810c4bcb6e5  usr/share/ahenk/plugins/disk-limit/shutdown.py
+e702a1b8a5631703b3c51ee70c4ff13b  usr/share/doc/ahenk-disk-limit/changelog.gz
